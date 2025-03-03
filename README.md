@@ -1,5 +1,9 @@
 # NIRS-EEG
-Codes for paper Enhanced spatio-temporal reconstruction of neuronal activities using joint electroencephalography and functional near-infrared spectroscopy
+Codes for paper *Enhanced spatio-temporal reconstruction of neuronal activities using joint electroencephalography and functional near-infrared spectroscopy*
+
+**NOTE:**
+
+If you are interested in the codes for our later work on human EEG-DOT (the [NeuroImage paper](https://doi.org/10.1016/j.neuroimage.2023.120210)), they are available [here](https://github.com/JiamingCao/EEG-DOT). It is recommended to use the newer codes, especially if you are processing human data.
 
 *PrepFEM2.m*: generates the forward models of EEG and DOT
 
